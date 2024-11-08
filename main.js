@@ -1,2 +1,3 @@
 guardarProductosLS(productos);
 renderProductos();
+renderactualizarContadorCarrito();
